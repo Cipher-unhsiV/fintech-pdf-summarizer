@@ -12,3 +12,5 @@ short_description: Gradio app that is used for summarizing fintech pdfs.
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+For getting redirected to Hugging Face Spaces, click [here](https://huggingface.co/spaces/cipherunhsiv/fintech-pdf-summarizer)
